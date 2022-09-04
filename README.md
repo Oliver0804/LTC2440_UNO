@@ -4,7 +4,7 @@
 - D12 MISO
 - D11 MOSI
 - D10 CS
-Serial baud rate : 115200 8N1
+- Serial baud rate : 115200 8N1
 
 ## LTC2440
 P1 GND      P16 GND
